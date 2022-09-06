@@ -1,4 +1,4 @@
-<h1 align="center">Hello!👋, I'm Abhrajit Ray</h1>
+<h1 align="center">Hello!👋 I'm Abhrajit Ray</h1>
 <h3 align="center">A Frontend web developer and a CSE undergrad.</h3>
 
 - 🌱 I’m currently learning **Next.js, Typescript**

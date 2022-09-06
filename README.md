@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js, Typescript**
 
-- 👯 I’m looking to collaborate on **On web dev projects.**
+- 👯 I’m looking to collaborate on ** Web dev projects.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/abhrajit-ray-b6a97721a/**
 

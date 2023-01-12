@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/abhrajit-ray-b6a97721a/**
 
--I'm interested in blender grease pencil animations, digital art and Game Development as well.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

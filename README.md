@@ -1,8 +1,7 @@
 ![header](https://user-images.githubusercontent.com/67530432/214936717-d680d224-9691-4c32-bdcf-b8c319832681.png)
 
 <h3 align="left">About Me:</h3>
-<p>Hey there! 👋 I'm Abhrajit Ray, a 2nd year Computer science and engineering student. I love building cool websites with great design. I'm into all         things tech and have some game dev and web design experience too. Currently I'm
-  learning backend development and improving my programming logic skills as well. Hit me up if you wanna collab on a project.
+<p>Hey there! 👋 I'm Abhrajit Ray, a 2nd year Computer science and engineering student. I'm a frontend web developer who makes fast and responsive websites with great design using Tailwind css, React and Next.js. I'm into all things tech and have some game dev and web design experience too. Currently, I'm learning backend development and improving my programming logic skills as well. Hit me up if you wanna collab on a project ✌.
 </p>
 
 <h3 align="left">Reach out to me: </h3>
@@ -43,10 +42,17 @@
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
   </span>
   
+  <div>
+    <img 
+         height = "400"
+         width = "400"
+         align="right"
+         src="https://user-images.githubusercontent.com/67530432/214942551-aac84e26-43a7-4f0c-985b-348d0d35fd0c.gif"
+     />
+  </div>
   
  
  <br>
-  <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhrajitray77&show_icons=true&locale=en&layout=compact" alt="abhrajitray77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhrajitray77&" alt="abhrajitray77" /></p>

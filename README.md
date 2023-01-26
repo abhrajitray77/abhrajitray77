@@ -46,7 +46,7 @@
   <div>
     <img 
          height = "400"
-         width = "400"
+         width = "350"
          align="right"
          src="https://user-images.githubusercontent.com/67530432/214942551-aac84e26-43a7-4f0c-985b-348d0d35fd0c.gif"
      />

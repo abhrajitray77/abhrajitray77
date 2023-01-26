@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
   </span>
   
+  ## Stats:
   <div>
     <img 
          height = "400"
@@ -51,8 +52,6 @@
      />
   </div>
   
- 
- <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhrajitray77&show_icons=true&locale=en&layout=compact" alt="abhrajitray77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhrajitray77&" alt="abhrajitray77" /></p>

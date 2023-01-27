@@ -56,6 +56,6 @@
      />
   </div>
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhrajitray77&show_icons=true&locale=en&layout=compact" alt="abhrajitray77" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhrajitray77&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhrajitray77&" alt="abhrajitray77" /></p>
+![Abhra's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhrajitray77&show_icons=true&theme=radical)

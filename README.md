@@ -7,6 +7,7 @@
 <h3 align="left">Reach out to me: </h3>
 <a href="https://www.linkedin.com/in/abhrajit-ray-b6a97721a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/ray_abhrajit" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UCbdxfTKNRcdcNALKwq_ZTqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
   
 <h3 align="left">Languages:</h3>
 <span>

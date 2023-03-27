@@ -1,7 +1,7 @@
 ![header](https://user-images.githubusercontent.com/67530432/214936717-d680d224-9691-4c32-bdcf-b8c319832681.png)
 
 <h3 align="left">About Me:</h3>
-<p><h4>Hey there! 👋 I'm Abhrajit Ray</h4>I'm a frontend web developer who makes fast and scalable websites with a responsive design and great UI using Tailwind css, React and Next.js, along with firebase/supabase. I'm into all things tech and have some game dev and web design experience too. Currently, I'm learning backend development (Node.js, mongoDB, Strapi) and improving my programming logic skills as well. Hit me up if you wanna collab on a project ✌.
+<p><h4>Hey there! 👋 I'm Abhrajit Ray</h4>I'm a frontend web developer who makes fast and scalable websites with a responsive design and great UI using Tailwind css, React and Next.js, along with firebase/supabase. I'm into all things tech and have some game dev and web design experience too. Currently, I'm learning backend development (Node.js, mongoDB, Strapi), working with REST APIs, and improving my programming logic skills as well. Hit me up if you wanna collab on a project ✌.
 </p>
 
 <h3 align="left">Reach out to me: </h3>

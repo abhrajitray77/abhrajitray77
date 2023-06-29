@@ -1,11 +1,11 @@
 ![header](https://user-images.githubusercontent.com/67530432/231176540-f1e87c55-e853-4cfb-a9e4-3b82435c5aa8.png)
 
 <h3 align="left">About Me:</h3>
-<p><h4>Hey there! 👋 I'm Abhrajit Ray</h4>I'm a frontend web developer who makes fast and scalable websites with a responsive design and great UI using Tailwind css, React and Next.js, along with firebase/supabase. I'm into all things tech and have some game dev and web design experience too. Currently, I'm learning backend development (Node.js, mongoDB, Strapi), working with REST APIs, and improving my programming logic skills as well. Hit me up if you wanna collab on a project ✌.
+<p><h4>Hey there! 👋 I'm Abhrajit Ray</h4>I'm a MERN Stack developer who makes fast and scalable websites with a responsive design and great UI using Tailwind css, React and Next.js, along with firebase/supabase/appwrite. I'm into all things tech and have some game dev and web design experience too. Currently, I'm learning backend development (Node.js, mongoDB, Strapi), working with REST APIs, and improving my programming logic skills as well. Hit me up if you wanna collab on a project ✌.
 </p>
 
 <h3 align="left">Reach out to me: </h3>
-<a href="https://www.linkedin.com/in/abhrajit-ray-b6a97721a/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abhrajitray77/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/ray_abhrajit" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCbdxfTKNRcdcNALKwq_ZTqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 <a href="https://aroy77.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>

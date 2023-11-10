@@ -1,7 +1,10 @@
 ![header](https://user-images.githubusercontent.com/67530432/231176540-f1e87c55-e853-4cfb-a9e4-3b82435c5aa8.png)
 
 <h3 align="left">About Me:</h3>
-<p><h4>Hey there! 👋 I'm Abhrajit Ray</h4>I'm a MERN Stack developer who makes fast and scalable websites with a responsive design and great UI using Tailwind css, React and Next.js, along with firebase/supabase/appwrite. I'm into all things tech and have some game dev and web design experience too. Currently, I'm learning backend development (Node.js, mongoDB, Strapi), working with REST APIs, and improving my programming logic skills as well. Hit me up if you wanna collab on a project ✌.
+<p><h4>Hey there! 👋 I'm Abhrajit Ray</h4>I'm a skilled Full-stack developer with a year of experience specializing in React.js, Next.js, TypeScript, and Tailwind
+CSS to create fast and scalable websites. Along with backend technologies like MongoDB, Node.js, and Express, I can work
+with REST and GraphQL APIs and other cloud backend services. Side by side, I'm learning AI/ML, working with Azure Cloud
+and DevOps platform, and trying to improve my problem-solving skills. Hit me up if you wanna collab on a project ✌.
 </p>
 
 <h3 align="left">Reach out to me: </h3>

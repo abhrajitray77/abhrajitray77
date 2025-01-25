@@ -1,10 +1,7 @@
 ![header](https://user-images.githubusercontent.com/67530432/231176540-f1e87c55-e853-4cfb-a9e4-3b82435c5aa8.png)
 
 <h3 align="left">About Me:</h3>
-<p><h4>Hey there! 👋 I'm Abhrajit Ray</h4>I'm a skilled Full-stack developer with a year of experience specializing in React.js, Next.js, TypeScript, and Tailwind
-CSS to create fast and scalable websites. Along with backend technologies like MongoDB, Node.js, and Express, I can work
-with REST and GraphQL APIs and other cloud backend services. Side by side, I'm learning AI/ML, working with Azure Cloud
-and DevOps platform, and trying to improve my problem-solving skills. Hit me up if you wanna collab on a project ✌.
+<p><h4>Hey there! 👋 I'm Abhrajit Ray</h4>I'm a skilled Full-stack developer who likes building cool stuff, mostly web-based products. Hit me up if you wanna collab on a project ✌️
 </p>
 
 <h3 align="left">Reach out to me: </h3>
